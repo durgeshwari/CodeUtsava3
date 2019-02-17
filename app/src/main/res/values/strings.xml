@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Code Utsava</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_again">Confirm Password</string>
+    <string name="prompt_msg">Type a message</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_send">Send</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">Password too short or does not match</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing emailcompletions." </string>
+    <string name="user_login">User Login</string>
+    <string name="signup">Signup</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="not_having_an_account_signup_here">Not having an account? Signup Here</string>
+    <string name="signup2">signup</string>
+    <string name="savedata">Savedata</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
